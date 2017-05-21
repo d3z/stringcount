@@ -1,0 +1,2 @@
+# stringcount
+wc ripoff
